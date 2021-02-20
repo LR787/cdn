@@ -1,0 +1,9 @@
+.heimu:hover {
+    color:white;
+    transition: color .23s linear;
+    text-shadow: tomato;
+}
+.heimu {
+    background-color: #252525;
+    border-radius: 2px;
+}
